@@ -1,0 +1,51 @@
+.table{
+    border-collapse: collapse;
+}
+
+.table td, table th{
+    border: 2px solid black;
+    padding: 5px 10px;
+}
+
+.table thead, table tbody{
+    background-color: #dae1f8;
+}
+
+.center{
+    text-align: center;
+}
+
+.day{
+    text-align: center;
+    font-size: 27px;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+}
+
+.green{
+    background-color: aquamarine;
+}
+
+.white{
+    background-color: white;
+}
+
+.green_border{
+    background-color: aquamarine;
+    border-style: solid dashed;
+}
+
+.white_border{
+    background-color: white;
+    border-style: solid dashed;
+}
+
+.headborder{
+    background-color: aquamarine;
+    border-style: solid solid solid dashed;
+}
+
+.border{
+    background-color: white;
+    border-style: solid solid solid dashed;
+}
